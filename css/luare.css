@@ -1,0 +1,99 @@
+@charset "UTF-8";
+@import url("Apalu/stylesheet.css");
+
+.bg-green {
+    background-image: url(url);
+    background-color: #287233;
+}
+.jumbotroninicio {
+    background-size: cover;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    opacity: 1;
+    background-image: url(../images/Firefly%20fondo%20liquido%20verde%20claro,%20brillante%20y%20ligeramente%20fragmentado%2091931.jpg);
+}
+.dg-cream {
+    background-color: #E6FFD6;
+}
+.boldtext {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: bolder;
+    color: #0B2A00;
+}
+.dg-green1 {
+    background-color: rgba(40,114,51,1.00);
+    opacity: 1;
+    background-image: -webkit-linear-gradient(270deg,rgba(31,92,40,1.00) 0%,rgba(3,167,27,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(31,92,40,1.00) 0%,rgba(3,167,27,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(31,92,40,1.00) 0%,rgba(3,167,27,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(31,92,40,1.00) 0%,rgba(3,167,27,1.00) 100%);
+}
+.text-nice {
+    text-align: center;
+    text-indent: 0;
+    font-family: Apalu;
+    font-weight: bold;
+    font-size: 116px;
+    letter-spacing: 4px;
+    color: rgba(10,58,17,1.00);
+    margin-top: -30px;
+    margin-bottom: -43px;
+    font-style: italic;
+}
+.jumbotrontienda {
+    background-image: url(../images/Firefly%20fondo%20liquido%20verde,%20brillante%20y%20fragmentado,%20no%20tan%20turbio%2054943.jpg);
+    background-size: cover;
+}
+.jumbotronosotros {
+    background-image: url(../images/Firefly%20fondo%20liquido%20verde,%20brillante%20y%20fragmentado,%20no%20tan%20turbio%2054943.jpg);
+    background-size: cover;
+}
+.texttitle {
+    font-family: Apalu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 49px;
+    color: #FFFFFF;
+}
+.texttitle2 {
+    font-family: Apalu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 49px;
+    color: #287233;
+}
+
+.text-navbar {
+    font-family: Apalu;
+    font-style: italic;
+    font-weight: 600;
+    letter-spacing: 3px;
+    font-size: 32px;
+    margin-left: 9px;
+    margin-bottom: -4px;
+    margin-right: 13px;
+    padding-right: 0px;
+    border-right: 2px solid rgba(255,255,255,1.00);
+    border-spacing: 34px 23px;
+    opacity: 0.85;
+}
+.textsubtitle1 {
+    color: rgba(10,58,17,1.00);
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+.jumbolargo1 {
+    background-image: url(../images/largo1.png);
+    background-size: 400px auto;
+    width: auto;
+    height: auto;
+}
+.textotiendita {
+    font-weight: bold;
+    font-size: small;
+    text-align: center;
+}
+.card-text-center {
+    text-align: center;
+}
