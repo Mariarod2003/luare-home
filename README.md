@@ -1,0 +1,1 @@
+Esta página es un proyecto hecho en la Universidad Santo Tomás de Bogotá por medio del programa de diseño gráfico en septimo semestre. Por medio de este se ha puesto aprubea nuestras habilidades como estudiantepara la creación de páginas web haciendo uso de dramweaver, boostrap y github.
